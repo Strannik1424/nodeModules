@@ -1,0 +1,26 @@
+[
+    {
+        "id":61,
+        "parent_id":19,
+        "title":"KAMAZ-5814Z9",
+        "image_path":"Бетономешалка/KAMAZ-5814Z9.png"
+    },
+    {
+        "id":62,
+        "parent_id":19,
+        "title":"MAZ-69366J",
+        "image_path":"Бетономешалка/MAZ-69366J.png"
+    },
+    {
+        "id":63,
+        "parent_id":20,
+        "title":"PUTZMEISTER-BSA 1409 D",
+        "image_path":"Бетононасос/PUTZMEISTER-BSA 1409 D.png"
+    },
+    {
+        "id":64,
+        "parent_id":20,
+        "title":"PUTZMEISTER-BSF 42-5.14 H",
+        "image_path":"Бетононасос/PUTZMEISTER-BSF 42-5.14 H.png"
+    }
+]

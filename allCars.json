@@ -1,0 +1,307 @@
+[
+    {
+        "id":1,
+        "parent_id":1,
+        "title":"TADANO-GR-500EX",
+        "image_path":"Автокран/TADANO-GR-500EX.png",
+        "product":["7"]
+    },
+    {
+        "id":2,
+        "parent_id":1,
+        "title":"LIEBHERR LTM 1120-4.1",
+        "image_path":"Автокран/LIEBHERRLTM1120.jpeg",
+        "product":["2","7"]
+    },
+    {
+        "id":3,
+        "parent_id":1,
+        "title":"XCMG XCT25L5 S31",
+        "image_path":"Автокран/XCMGXCT25L5S31.jpg",
+        "product":["7","1","4","5"]
+    },
+    {
+        "id":4,
+        "parent_id":1,
+        "title":"Ивановвец KC 55717K3",
+        "image_path":"Автокран/ИвановвецKC55717K3.png",
+        "product":["1","9","2","4"]
+    },
+    {
+        "id":5,
+        "parent_id":1,
+        "title":"LIEBHERR LTM 1250-5.1",
+        "image_path":"Автокран/LIEBHERRLTM1250-5.1.png",
+        "product":["7"]
+    },
+    {
+        "id":6,
+        "parent_id":1,
+        "title":"TADANO-GR-1100EX",
+        "image_path":"Автокран/TADANO-GR-1100EX.png",
+        "product":["7"]
+    },
+    {
+        "id":7,
+        "parent_id":1,
+        "title":"TADANO-GR-800EX",
+        "image_path":"Автокран/TADANO-GR-800EX.png",
+        "product":["1","9","2","4","11","12","13","5","3","7","10","14"]
+    },
+    {
+        "id":8,
+        "parent_id":2,
+        "title":"KAMAZ-5053A4 (35M)",
+        "image_path":"Автовышка/KAMAZ-5053A4(35M).jpg",
+        "product":["1","7"]
+    },
+    {
+        "id":9,
+        "parent_id":3,
+        "title":"KAMAZ-42261",
+        "image_path":"Автобус/KAMAZ-42261.jpg",
+        "product":["1","8","7","4"]
+    },
+    {
+        "id":10,
+        "parent_id":3,
+        "title":"YUTONG ZK6938HB9",
+        "image_path":"Автобус/YUTONGZK6938HB9.jpg",
+        "product":["1"]
+    },
+    {
+        "id":11,
+        "parent_id":3,
+        "title":"YUTONG ZK6122H9",
+        "image_path":"Автобус/YUTONGZK6122H9.jpg",
+        "product":["3"]
+    },
+    {
+        "id":12,
+        "parent_id":4,
+        "title":"MANITOU MT-X 1440 A E3",
+        "image_path":"телепогрузчик/Telepogruzchik.png",
+        "product":["7","12","15"]
+
+    },
+    {
+        "id":13,
+        "parent_id":5,
+        "title":"FORD-TRANSIT",
+        "image_path":"Автогрузовой/Ford-Transit-L4H3-1024x1024.png",
+        "product":["15","7","4"]
+    },
+    {
+        "id":14,
+        "parent_id":5,
+        "title":"GAZ-СОБОЛЬ",
+        "image_path":"Автогрузовой/GAZ-Соболь.png",
+        "product":["4"]
+    },
+    {
+        "id":15,
+        "parent_id":5,
+        "title":"ГАЗЕЛЬ-NEXT",
+        "image_path":"Автогрузовой/ГАЗЕЛЬ-NEXT.png",
+        "product":["1","9","2","4","12","3","7","10","15","5","6","8"]
+    },
+    {
+        "id":16,
+        "parent_id":5,
+        "title":"ГАЗЕЛЬ 2844N5",
+        "image_path":"Автогрузовой/ГАЗЕЛЬ2844N5.jpg",
+        "product":["1","2","4","12","7","5","6"]
+    },
+    {
+        "id":17,
+        "parent_id":6,
+        "title":"SHANTUI SR18MP2",
+        "image_path":"Каток/SHANTUISR18MP2.png",
+        "product":["1","4","7"]
+    },
+    {
+        "id":18,
+        "parent_id":6,
+        "title":"SDLG RS8180",
+        "image_path":"Каток/SDLGRS8180.png",
+        "product":["1","4","12","9","2","3"]
+    },
+    {
+        "id":19,
+        "parent_id":7,
+        "title":"SDLG-HMK 102S",
+        "image_path":"Погрузчик/SDLG-HMK102S.png",
+        "product":["1"]
+
+    },
+    {
+        "id":20,
+        "parent_id":7,
+        "title":"HIDROMEK-HMK 102S",
+        "image_path":"Погрузчик/HIDROMEK-HMK102S.png",
+        "product":["1","7"]
+
+    },
+    {
+        "id":21,
+        "parent_id":8,
+        "title":"KAMAZ KO 806 01",
+        "image_path":"Водовоз/KAMAZKO80601.png",
+        "product":["12","1","2","7","4","5","11"]
+    },
+    {
+        "id":22,
+        "parent_id":8,
+        "title":"KAMAZ 7074A9 50",
+        "image_path":"Водовоз/KAMAZ7074A950.png",
+        "product":["1","2","7","4","9"]
+    },
+    {
+        "id":23,
+        "parent_id":9,
+        "title":"IVECO AMT MTGB3",
+        "image_path":"Самосвал/IVECOAMTMTGB3.png",
+        "product":["4","10"]
+    },
+    {
+        "id":24,
+        "parent_id":9,
+        "title":"Mercedes Arocs 65896 08",
+        "image_path":"Самосвал/MercedesArocs6589608.png",
+        "product":["4","5"]    
+    },
+    {
+        "id":25,
+        "parent_id":9,
+        "title":"SACHMAN-SX331863366",
+        "image_path":"Самосвал/SACHMAN-SX331863366.png",
+        "product":["7"]    
+    },
+    {
+        "id":26,
+        "parent_id":10,
+        "title":"KOMATSU-PC500LC-10MO",
+        "image_path":"Excovator/KOMATSU-PC500LC-10MO.png",
+        "product":["5","7","15","10"]
+    },
+    {
+        "id":27,
+        "parent_id":10,
+        "title":"HITACHI-ZX470LC-5G",
+        "image_path":"Excovator/HITACHI-ZX470LC-5G.png",
+        "product":["5","7"]
+    },
+    {
+        "id":28,
+        "parent_id":10,
+        "title":"HYUNDAI-R430LC 9SH",
+        "image_path":"Excovator/HYUNDAI-R430LC9SH.png",
+        "product":["7"]
+    },
+    {
+        "id":29,
+        "parent_id":10,
+        "title":"HYUNDAI HX300S L",
+        "image_path":"Excovator/HYUNDAI HX300S L.png",
+        "product":["4"]
+    },
+    {
+        "id":30,
+        "parent_id":10,
+        "title":"HYUNDAI HX340S L",
+        "image_path":"Excovator/HYUNDAI HX340S L.png",
+        "product":["4"]
+    },
+    {
+        "id":31,
+        "parent_id":10,
+        "title":"CATERPILLAR-374",
+        "image_path":"Excovator/CATERPILLAR-374.png",
+        "product":["4","2"]
+    },
+    {
+        "id":32,
+        "parent_id":11,
+        "title":"KAMAZ 43118",
+        "image_path":"Манипулятор/KAMAZ43118.png",
+        "product":["1"]
+    },
+    {
+        "id":33,
+        "parent_id":12,
+        "title":"HAULOTTE-HA32 RTJPRO",
+        "image_path":"Подьемник/HAULOTTE-HA32RTJPRO.png",
+        "product":["1"]
+    },
+    {
+        "id":34,
+        "parent_id":12,
+        "title":"ZOOMLION-ZT26J",
+        "image_path":"Подьемник/ZOOMLION-ZT26J.png",
+        "product":["1"]
+    },
+    {
+        "id":35,
+        "parent_id":12,
+        "title":"HAULOTTE-ZT26J",
+        "image_path":"Подьемник/HAULOTTE-ZT26J.png",
+        "product":["1"]
+    },
+    {
+        "id":36,
+        "parent_id":12,
+        "title":"HAULOTTE-HA20 RTJPRO",
+        "image_path":"Подьемник/HAULOTTE-HA20 RTJPRO.png",
+        "product":["1"]
+    },
+    {
+        "id":37,
+        "parent_id":12,
+        "title":"HAULOTTE-HT23 RTJPRO",
+        "image_path":"Подьемник/HAULOTTE-HT23 RTJPRO.png",
+        "product":["1"]
+    },
+    {
+        "id":38,
+        "parent_id":12,
+        "title":"HAULOTTE-HA41 RTJPRO",
+        "image_path":"Подьемник/HAULOTTE-HA41 RTJPRO.png",
+        "product":["1"]
+    },
+    {
+        "id":39,
+        "parent_id":12,
+        "title":"HAULOTTE-HT23RTJ",
+        "image_path":"Подьемник/HAULOTTE-HT23RTJ.png",
+        "product":["1","2","12","4","6","10"]
+    },
+    {
+        "id":40,
+        "parent_id":12,
+        "title":"HAULOTTE-32-41 RTJ",
+        "image_path":"Подьемник/HAULOTTE-32-41 RTJ.png",
+        "product":["1","4","7","5"]
+    },
+    {
+        "id":41,
+        "parent_id":12,
+        "title":"HAULOTTE-HA23 RTJ",
+        "image_path":"Подьемник/HAULOTTE-HA23 RTJ.png",
+        "product":["1"]
+    },
+    {
+        "id":42,
+        "parent_id":12,
+        "title":"HAULOTTE-HA26 RTJPRO",
+        "image_path":"Подьемник/HAULOTTE-HA26 RTJPRO.png",
+        "product":["1"]
+    },
+    {
+        "id":43,
+        "parent_id":12,
+        "title":"HAULOTTE-HA20 RTJ",
+        "image_path":"Подьемник/HAULOTTE-HA20 RTJ.png",
+        "product":["1","4","2","15","12","9","5","8","6"]
+    }
+    
+]

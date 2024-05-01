@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "АВТОКРАН",
+        "parent_id": 1,
+        "image_path": "Avtokran.png"
+    },
+    {
+        "id": 2,
+        "title": "АВТОВИШКА",
+        "parent_id": 2,
+        "image_path": "Avtovishka.png"
+    },
+    {
+        "id": 3,
+        "title": "АВТОБУС",
+        "parent_id": 3,
+        "image_path": "Avtobus.png"
+    },
+    {
+        "id": 4,
+        "title": "ТЕЛЕСК. ПОГРУЗЧИК",
+        "parent_id": 4,
+        "image_path": "Telepogruzchik.png"
+    },
+    {
+        "id": 5,
+        "title": "АВТОГРУЗОВОЙ",
+        "parent_id": 5,
+        "image_path": "Avtogruzovoy.png"
+    },
+    {
+        "id": 6,
+        "title": "КАТОК",
+        "parent_id": 6,
+        "image_path": "Katok.png"
+    },
+    {
+        "id": 7,
+        "title": "ПОГРУЗЧИК",
+        "parent_id": 7,
+        "image_path": "pogruzchik.png"
+    },
+    {
+        "id": 8,
+        "title": "ВОДОВОЗ",
+        "parent_id": 8,
+        "image_path": "Vodovoz.png"
+    },
+    {
+        "id": 9,
+        "title": "САМОСВАЛ",
+        "parent_id": 9,
+        "image_path": "Samosval.png"
+    },
+    {
+        "id": 10,
+        "title": "ЭКСКАВАТОР",
+        "parent_id": 10,
+        "image_path": "Эксковатор.jpg"
+    },
+    {
+        "id": 11,
+        "title": "МАНИПУЛЯТОР",
+        "parent_id": 11,
+        "image_path": "Manipulyator.png"
+    },
+    {
+        "id": 12,
+        "title": "ПОДЪЁМНИК",
+        "parent_id": 12,
+        "image_path": "подьемчик.jpg"
+    },
+    {
+        "id": 13,
+        "title": "МИНИ ПОГРУЗЧИК",
+        "parent_id": 13,
+        "image_path": "миниПогрузчик.jpg"
+    },
+    {   
+        "id": 14,
+        "title": "БЕНЗОВОЗ",
+        "parent_id": 14,
+        "image_path": "бензовоз.jpg"
+    },
+    {   
+        "id": 15,
+        "title": "Тягач",
+        "parent_id": 15,
+        "image_path": "тягач.png"
+    },
+    {   
+        "id": 16,
+        "title": "Ассенизатор",
+        "parent_id": 16,
+        "image_path": "ассенизатор.jpg"
+    },
+    {   
+        "id": 17,
+        "title": "Внедорожник",
+        "parent_id": 17,
+        "image_path": "vnedorojnik.png"
+    },
+    {   
+        "id": 18,
+        "title": "Генератор",
+        "parent_id": 18,
+        "image_path": "генератор.jpg"
+    },
+    {   
+        "id": 19,
+        "title": "Бетономешалка",
+        "parent_id": 19,
+        "image_path": "бетономешалка.png"
+    },
+    {   
+        "id": 20,
+        "title": "Бетононасос",
+        "parent_id": 20,
+        "image_path": "бетононасос.jpg"
+    }
+]

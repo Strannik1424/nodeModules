@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "images_path":"",
+        "title":"Электричество"
+    },
+    {
+        "id":2,
+        "images_path":"",
+        "title":"Мотор"
+    },
+    {
+        "id":3,
+        "images_path":"",
+        "title":"Шина"
+    },
+    {
+        "id":4,
+        "images_path":"",
+        "title":"Ходовой часть"
+    },
+    {
+        "id":5,
+        "images_path":"",
+        "title":"Внешние части"
+    },
+    {
+        "id":6,
+        "images_path":"",
+        "title":"Кузовной"
+    },
+    {
+        "id":7,
+        "images_path":"",
+        "title":"Фильтр"
+    },
+    {
+        "id":8,
+        "images_path":"",
+        "title":"Ремкомплект"
+    },
+    {
+        "id":9,
+        "images_path":"",
+        "title":"Гидравлическая"
+    },
+    {
+        "id":10,
+        "images_path":"",
+        "title":"Прочие"
+    }
+]
